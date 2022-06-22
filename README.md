@@ -10,6 +10,9 @@
 ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
+![enzyme](https://img.shields.io/badge/Enzyme-CC6699?style=for-the-badge&logo=enzyme&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-593D88?style=for-the-badge&logo=jira&logoColor=white)
+![bitbucket](https://img.shields.io/badge/Bitbucket-007ACC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 <!--
 **kat9898/kat9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
